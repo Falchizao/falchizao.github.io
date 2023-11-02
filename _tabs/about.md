@@ -19,6 +19,6 @@ Fall 2017, I went to Peru with my dad, where we visited [Machu Picchu](https://p
 ![falchi-cuzco](/assets/img/cuzco.jfif){: w="700" h="400" }
 _Me with some locals at [Cuzco](https://en.wikipedia.org/wiki/Cusco), Peru_
 
-I’m best reached through [LinkedIn](https://www.linkedin.com/in/falchizao/). I’m always open to interesting conversations and collaboration.
+I’m currently living at [Pato Branco](https://pt.wikipedia.org/wiki/Pato_Branco) and best reached through [LinkedIn](https://www.linkedin.com/in/falchizao/). I’m always open to interesting conversations and collaboration.
 
 By the way, here is my [Resume](/assets/img/Resume_MarceloFalchi.pdf).
