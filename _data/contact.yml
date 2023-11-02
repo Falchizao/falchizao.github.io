@@ -4,6 +4,10 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/falchizao' # Fill with your Linkedin homepage
 
+- type: steam
+  icon: 'fab fa-steam'   # icons powered by <https://fontawesome.com/>
+  url:  'https://steamcommunity.com/id/falchi' # Fill with your Linkedin homepage
+
 - type: github
   icon: "fab fa-github"
 
