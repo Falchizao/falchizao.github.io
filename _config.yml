@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Falchi # the main title
+title: Marcelo Falchi # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My personal blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  MarceloFalchi, Blog, Flutter, Java, TypeScript
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,11 +38,11 @@ social:
   email: marcelofalchi@proton.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/falchizao
     - https://twitter.com/falchizao # change to your twitter homepage
     - https://github.com/falchizao # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/marcelo.falchi
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.cloudflare.steamstatic.com/7c70fab75b4e883c2e10fa73c70f2a95de5dadd8_full.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
