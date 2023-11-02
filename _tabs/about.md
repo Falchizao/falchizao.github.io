@@ -13,3 +13,5 @@ In my free time, I play online games & go to the gym. Fun fact, My [technologist
 Summer 2014, I spent 1 month in the UK, Italy and France as a part of culture exchange program, where I studied english at [Newbold College](https://www.newbold.ac.uk/). (was really fun)!
 
 I’m best reached through [LinkedIn](https://www.linkedin.com/in/falchizao/). I’m always open to interesting conversations and collaboration.
+
+By the way, here is my [Resume](/assets/img/Resume_MarceloFalchi.pdf).
