@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.cloudflare.steamstatic.com/7c70fab75b4e883c2e10fa73c70f2a95de5dadd8_full.jpg
+avatar: /assets/img/profile2.jfif
 
 # boolean type, the global switch for TOC in posts.
 toc: true
