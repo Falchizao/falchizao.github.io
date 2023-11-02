@@ -140,10 +140,3 @@ _Extensions tab_
 ## Thanks for reading
 
 Hope you found my blog fun. If you have any questions, you can check my [blog's repo](https://github.com/falchizao/falchizao.github.io) on Github or feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/falchizao/).
-
-
-
-
-
-
-
