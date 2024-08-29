@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Marcelo Falchi # the main title
 
-tagline: My personal blog # it will display as the sub-title
+tagline: My personal articles # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   MarceloFalchi, Blog, Flutter, Java, TypeScript
@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.gif
+avatar: /assets/img/avatar.jfif
 # /assets/img/profile2.jfif
 
 # boolean type, the global switch for TOC in posts.

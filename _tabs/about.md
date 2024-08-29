@@ -4,13 +4,34 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Marcelo Falchi, a Software Engineer working at [Oniun ERP](https://www.oniun.com.br/). I previously I worked as a Software Developer at [Gew Tecnologia](https://www.gew.com.br/).
+I'm Marcelo Falchi, I pursued Computer Systems Analyst at a prestigious Brazilian Federal school [Federal Technological University of Paraná](https://www.utfpr.edu.br/), complemented by postgraduate studies in Computer Networks. 
 
-I graduated from The [Federal Technological University of Paraná](https://www.utfpr.edu.br/), with a technologist's degree in Analysis and systems development with an Excellent with honors grade.
+Additionally I have more than 3 years of experience in WEB and Mobile development.
 
-I participated in an extension project called 'DASS Scale' at the [State University of West Paraná](https://www.unioeste.br), with the scope of calculating and disseminating psychological results in the field of Medicine, providing support to professionals in the field, and gaining extensive experience in mobile application development.
+In these three years I have deepened a lot of knowledge, which has allowed me to acquire solid knowledge about WEB applications, APIs, integrations, design patterns and development methodologies, working mainly with Java, Flutter and Typescript.
 
-In my free time, I play online games & go to the gym. Fun fact, My [technologist thesis](https://github.com/Falchizao/scarletgraph_client) was about a social network offering job vacancies, but with the difference of being only for women. It has some automatic portfolio generation features, chat system, connection with other users and much more, all using Flutter, Firebase and Java.
+I'm a Software Engineer working at [Oniun ERP](https://www.oniun.com.br/).
+
+Here are some other things that I've worked with over the years:
+- Linux, RedHat and Windows
+- Hyper-V and Vagrant
+- Java and Spring Framework
+- C# with .NET 8
+- Azure and AWS
+- DHCP, HTTP, DNS and SSH
+- Monitoring (Grafana, Zabbix, Prometheus, ELK)
+- Flutter (Getx)
+- Deploy Apps to Google Play Store and Apple App Store
+- Docker / K8s / Jenkins
+- WebHooks/ idP / VPS
+- Design patterns
+- Angular
+- Microservices
+- DDD
+- Relational databases: SQL Server and PostgreSQL
+- Automated tests: JUnit 4 and 5.
+
+Also, I had the opportunity to work with agile teams for more than two years using Scrum and Kanban.
 
 Summer 2014, I spent 1 month in the UK, Italy and France as a part of culture exchange program, where I studied english at [Newbold College](https://www.newbold.ac.uk/). (was really fun)!
 
@@ -19,6 +40,4 @@ Fall 2017, I went to Peru with my dad, where we visited [Machu Picchu](https://p
 ![falchi-cuzco](/assets/img/cuzco.jfif){: w="700" h="400" }
 _Me with some locals at [Cuzco](https://en.wikipedia.org/wiki/Cusco), Peru_
 
-I’m currently living at [Pato Branco](https://pt.wikipedia.org/wiki/Pato_Branco) and best reached through [LinkedIn](https://www.linkedin.com/in/falchizao/). I’m always open to interesting conversations and collaboration.
-
-By the way, here is my [Resume](/assets/img/Resume_MarceloFalchi.pdf).
+I’m currently living at São Paulo and best reached through [LinkedIn](https://www.linkedin.com/in/falchizao/). I’m always open to interesting conversations and collaboration.
