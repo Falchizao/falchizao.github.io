@@ -5,9 +5,6 @@ categories: [Idempotency, Distributed Systems]
 tags: [redis, http, ID]
 ---
 
-
-# Introduction
-
 Idempotence is a concept used in different areas of computing and mathematics, 
 especially in programming, databases and networks, 
 and refers to operations that can be performed multiple times without changing the result beyond the first application.

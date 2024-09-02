@@ -38,6 +38,6 @@ Summer 2014, I spent 1 month in the UK, Italy and France as a part of culture ex
 Fall 2017, I went to Peru with my dad, where we visited [Machu Picchu](https://pt.wikipedia.org/wiki/Machu_Picchu), [Rainbow Montain](https://en.wikipedia.org/wiki/Vinicunca) and Local Villages. (and before you guys ask, yes, we ate Cuy).
 
 ![falchi-cuzco](/assets/img/cuzco.jfif){: w="700" h="400" }
-_Me with some locals at [Cuzco](https://en.wikipedia.org/wiki/Cusco), Peru_
+_Me with some locals at Cusco, Peru_
 
 I’m currently living at São Paulo and best reached through [LinkedIn](https://www.linkedin.com/in/falchizao/). I’m always open to interesting conversations and collaboration.
