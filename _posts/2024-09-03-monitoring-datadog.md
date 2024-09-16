@@ -7,8 +7,6 @@ tags: [containers, azure, linux, opentelemetry]
 
 In this article, we'll delve into the advantages of using Azure Kubernetes Service (AKS) and identify the essential health and performance metrics to monitor when utilizing the service. 
 
-Following that, we'll discuss how a platform like Datadog can be employed to collect these metrics, along with other monitoring data such as distributed request traces and logs, to gain comprehensive visibility into your containerized applications
-
 ## How does AKS works?
 Azure Kubernetes Service (AKS) is a managed service for running Kubernetes, the open-source container orchestration platform originally developed by Google.
 
